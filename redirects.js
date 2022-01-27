@@ -1,1 +1,1 @@
-window.location = "https://www.google.com";
+window.location = "https://www.google.co.id";
